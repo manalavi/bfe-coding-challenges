@@ -41,3 +41,7 @@ function r(stack, res) {
 // flat(arr);
 // flat(arr, 1);
 // flat(arr, 2);
+
+/**
+ * flat arrays - transforming (stripping) array type from data in a list.
+ */

@@ -38,3 +38,8 @@ const curriedJoin = curry(join);
 // curriedJoin(1)(2, 3); // '1_2_3'
 
 // curriedJoin(1, 2)(3); // '1_2_3'
+
+/**
+ * Lexical scope (ability of a child function scope to access it parent scope) is an important part of closure.
+ * closure - accessing outer (parent) function scope variables from the inner (child) most function scope created as represented in a lexical environment.
+ */
